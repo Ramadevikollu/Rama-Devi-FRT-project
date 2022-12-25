@@ -4,10 +4,10 @@ This is a web based application developed for Stroll related travel based websit
 
 ### This web based a travel application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-*Project link* - https://orange-dune-0aa0e1700.2.azurestaticapps.net
+*Project link* -
 
 
-*Project demo video Link* - https://youtu.be/0G0yn6bvxYk
+*Project demo video Link* -
 
 
 ## Azure technologies used for project
