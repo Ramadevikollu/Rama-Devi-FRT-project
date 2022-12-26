@@ -7,7 +7,7 @@ This is a web based application developed for Stroll related travel based websit
 *Project link* -  https://icy-cliff-0138b3900.2.azurestaticapps.net
 
 
-*Project demo video Link* -
+*Project demo video Link* -  https://youtu.be/ZqNRczbo2AI
 
 
 ## Azure technologies used for project
